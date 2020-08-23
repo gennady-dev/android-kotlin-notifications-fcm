@@ -76,3 +76,4 @@ lint/tmp/
 
 /app/libs/
 /app/src/main/java/org/
+/app/google-services.json
